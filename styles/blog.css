@@ -1,4 +1,11 @@
 div{
-    background-color: aqua;
+    background-color: coral;
     margin: 15px;
+    padding: 10px;
+    font-style: oblique;
+}
+.git{
+    background-color: aqua;
+    font-style: normal;
+    
 }
